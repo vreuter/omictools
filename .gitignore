@@ -1,0 +1,7 @@
+# Build-related
+target/
+project/*
+!project/build.properties
+
+interactive/
+
